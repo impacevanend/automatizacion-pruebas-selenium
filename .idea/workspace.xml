@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f51d311-b4f4-4a77-bb43-391cc97e14c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.Herencia_test.estudianteTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HomeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QA_Automatization.verifyAboutPage.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QA_automatization.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QA_automatization.verifyAboutPage.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QSAbout_TestTest.verifyAboutPage.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Vehiculo_tesst.vehiculoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.clase_autoatizacion [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Herencia_test.estudianteTest.executor": "Run",
+    "JUnit.HomeTest.executor": "Run",
+    "JUnit.JunitExampletest.executor": "Run",
+    "JUnit.QA_Automatization.verifyAboutPage.executor": "Run",
+    "JUnit.QA_automatization.executor": "Run",
+    "JUnit.QA_automatization.verifyAboutPage.executor": "Run",
+    "JUnit.QSAbout_TestTest.verifyAboutPage.executor": "Run",
+    "JUnit.Vehiculo_tesst.vehiculoTest.executor": "Run",
+    "Maven.clase_autoatizacion [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -74,7 +69,7 @@
       <recent name="clase1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HomeTest">
+  <component name="RunManager" selected="JUnit.JunitExampletest">
     <configuration name="Herencia_test.estudianteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
@@ -106,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QSAbout_TestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitExampletest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -115,7 +110,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.QSAbout_TestTest" />
+      <option name="MAIN_CLASS_NAME" value="clase1.JunitExampletest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JunitExampletest" />
         <item itemvalue="JUnit.HomeTest" />
         <item itemvalue="JUnit.Herencia_test.estudianteTest" />
         <item itemvalue="JUnit.Vehiculo_tesst.vehiculoTest" />
         <item itemvalue="JUnit.QSAbout_TestTest.verifyAboutPage" />
-        <item itemvalue="JUnit.QSAbout_TestTest" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +178,7 @@
       <workItem from="1754694193386" duration="18000" />
       <workItem from="1754694240833" duration="8000" />
       <workItem from="1754694401157" duration="9562000" />
-      <workItem from="1754953290046" duration="828000" />
+      <workItem from="1754953290046" duration="2264000" />
     </task>
     <servers />
   </component>
