@@ -1,6 +1,7 @@
 package pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -49,6 +50,17 @@ public class BasePage {
         }catch (Exception e){
             return false;
         }
+    }
+    public void submit(By locator){
+        WebElement element = findElement(locator);
+        element.submit();
+    }
+
+    public void scrollIntoView(By locator){
+        waitForElementToBeClickable(locator);
+        WebElement element = findElement(locator);
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView()",element);
     }
 
     public void waitForElementToBePresent(By locator){

@@ -37,5 +37,9 @@ public class HomePage extends BasePage {
         return topLinkIsPresent && bottomLinkIsPresent;
     }
 
+    public void clicOnCreditCardLink(){
+        click(qsCreditCardLink_Locator);
+    }
+
 
 }

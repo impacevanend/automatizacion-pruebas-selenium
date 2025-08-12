@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f51d311-b4f4-4a77-bb43-391cc97e14c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clase1/JunitExampletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clase1/JunitExampletest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
     "JUnit.QA_automatization.executor": "Run",
     "JUnit.QA_automatization.verifyAboutPage.executor": "Run",
     "JUnit.QSAbout_TestTest.verifyAboutPage.executor": "Run",
+    "JUnit.QSCreditCardTest.executor": "Run",
     "JUnit.Vehiculo_tesst.vehiculoTest.executor": "Run",
     "Maven.clase_autoatizacion [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -70,7 +72,7 @@
       <recent name="clase1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JunitExampletest">
+  <component name="RunManager" selected="JUnit.QSCreditCardTest">
     <configuration name="Herencia_test.estudianteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
@@ -117,18 +119,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QSAbout_TestTest.verifyAboutPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QSCreditCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.QSAbout_TestTest" />
-      <option name="METHOD_NAME" value="verifyAboutPage" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.QSCreditCardTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QSCreditCardTest" />
         <item itemvalue="JUnit.JunitExampletest" />
         <item itemvalue="JUnit.HomeTest" />
         <item itemvalue="JUnit.Herencia_test.estudianteTest" />
         <item itemvalue="JUnit.Vehiculo_tesst.vehiculoTest" />
-        <item itemvalue="JUnit.QSAbout_TestTest.verifyAboutPage" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,7 @@
       <workItem from="1754694193386" duration="18000" />
       <workItem from="1754694240833" duration="8000" />
       <workItem from="1754694401157" duration="9562000" />
-      <workItem from="1754953290046" duration="4190000" />
+      <workItem from="1754953290046" duration="9927000" />
     </task>
     <servers />
   </component>
