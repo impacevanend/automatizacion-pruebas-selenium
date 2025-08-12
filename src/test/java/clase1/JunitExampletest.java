@@ -24,9 +24,18 @@ public class JunitExampletest {
     void login() {
         System.out.println("This is the login test");
     }
+
+    @DisplayName("ABOUT_001 - This test verify the about image an titel.")
     @Test
     void verifyAboutPage() {
         System.out.println("This is the login test");
+    }
+
+    @Disabled
+    @DisplayName("HEADER_001 - This test version header (BUG#2471)")
+    @Test
+    void verifyHeaderPager() {
+        System.out.println("This is header test");
     }
 
     @Test
