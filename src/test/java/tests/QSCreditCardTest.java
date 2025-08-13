@@ -26,4 +26,19 @@ public class QSCreditCardTest extends BaseTest{
         Assertions.assertTrue(creditCardsPage.areCreditCardsPresent(),
                 "Failed: Credit cards images are not present");
     }
+    @Test
+    void areCreditCardsDetailsCorrect(){
+
+        //En otra clase veremos cómo parametrizar este Test
+        String type = "diamond";
+        creditCardsPage.selectCreditCard(type);
+
+        String expectedText = "Interés: 18.81% Anual Fee: $550";
+        String ccDetails = creditCardsPage.getCreditCardDetails();
+
+        System.out.println("Expected: " + expectedText +"\n Current: "+ccDetails);
+
+        Assertions.assertEquals(expectedText,ccDetails, "CC details are incorrect");
+    }
+
 }
