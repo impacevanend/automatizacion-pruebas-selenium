@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f51d311-b4f4-4a77-bb43-391cc97e14c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clase1/BasicLocationStrategiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clase1/BasicLocationStrategiesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.BasicLocationStrategiesTest.testId.executor": "Run",
+    "JUnit.BasicLocationStrategiesTest.testLinkText.executor": "Run",
+    "JUnit.BasicLocationStrategiesTest.testName.executor": "Run",
+    "JUnit.BasicLocationStrategiesTest.testPartialLinkTest.executor": "Run",
+    "JUnit.BasicLocationStrategiesTest.testTagName.executor": "Run",
     "JUnit.Herencia_test.estudianteTest.executor": "Run",
     "JUnit.HomeTest.executor": "Run",
     "JUnit.JunitExampletest.executor": "Run",
@@ -70,39 +77,8 @@
       <recent name="clase1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.QSCreditCardTest">
-    <configuration name="Herencia_test.estudianteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="clase_autoatizacion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="clase2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="clase2" />
-      <option name="MAIN_CLASS_NAME" value="clase2.Herencia_test" />
-      <option name="METHOD_NAME" value="estudianteTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="clase_autoatizacion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.HomeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JunitExampletest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BasicLocationStrategiesTest.testPartialLinkTest">
+    <configuration name="BasicLocationStrategiesTest.testId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -111,38 +87,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.JunitExampletest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
+      <option name="METHOD_NAME" value="testId" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QSCreditCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicLocationStrategiesTest.testLinkText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="clase1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.QSCreditCardTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="clase1" />
+      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
+      <option name="METHOD_NAME" value="testLinkText" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vehiculo_tesst.vehiculoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicLocationStrategiesTest.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase2.*" />
+          <option name="PATTERN" value="clase1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clase2" />
-      <option name="MAIN_CLASS_NAME" value="clase2.Vehiculo_tesst" />
-      <option name="METHOD_NAME" value="vehiculoTest" />
+      <option name="PACKAGE_NAME" value="clase1" />
+      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicLocationStrategiesTest.testPartialLinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clase_autoatizacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase1" />
+      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
+      <option name="METHOD_NAME" value="testPartialLinkTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicLocationStrategiesTest.testTagName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clase_autoatizacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clase1" />
+      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
+      <option name="METHOD_NAME" value="testTagName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QSCreditCardTest" />
-        <item itemvalue="JUnit.JunitExampletest" />
-        <item itemvalue="JUnit.HomeTest" />
-        <item itemvalue="JUnit.Herencia_test.estudianteTest" />
-        <item itemvalue="JUnit.Vehiculo_tesst.vehiculoTest" />
+        <item itemvalue="JUnit.BasicLocationStrategiesTest.testPartialLinkTest" />
+        <item itemvalue="JUnit.BasicLocationStrategiesTest.testLinkText" />
+        <item itemvalue="JUnit.BasicLocationStrategiesTest.testTagName" />
+        <item itemvalue="JUnit.BasicLocationStrategiesTest.testName" />
+        <item itemvalue="JUnit.BasicLocationStrategiesTest.testId" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +188,7 @@
       <workItem from="1754694193386" duration="18000" />
       <workItem from="1754694240833" duration="8000" />
       <workItem from="1754694401157" duration="9562000" />
-      <workItem from="1754953290046" duration="10719000" />
+      <workItem from="1754953290046" duration="16252000" />
     </task>
     <servers />
   </component>
