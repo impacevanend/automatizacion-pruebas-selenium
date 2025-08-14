@@ -27,8 +27,8 @@ public class BasicLocationStrategiesTest extends BaseTest {
 
     @Test
     void testName() {
-        By inputEmail_Locatro = By.name("email");
-        WebElement element = driver.findElement(inputEmail_Locatro);
+        By inputEmail_Locator = By.name("email");
+        WebElement element = driver.findElement(inputEmail_Locator);
         Utility.printElementInfo("input email", element);
     }
 

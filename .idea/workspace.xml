@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f51d311-b4f4-4a77-bb43-391cc97e14c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/clase1/BasicLocationStrategiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clase1/BasicLocationStrategiesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,12 @@
     "JUnit.BasicLocationStrategiesTest.testName.executor": "Run",
     "JUnit.BasicLocationStrategiesTest.testPartialLinkTest.executor": "Run",
     "JUnit.BasicLocationStrategiesTest.testTagName.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testClass.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testFatherSon.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testStartsWith.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testTagClass.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testTagID.executor": "Run",
+    "JUnit.CssSelectorStrategiesTest.testTagName.executor": "Run",
     "JUnit.Herencia_test.estudianteTest.executor": "Run",
     "JUnit.HomeTest.executor": "Run",
     "JUnit.JunitExampletest.executor": "Run",
@@ -77,8 +82,8 @@
       <recent name="clase1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BasicLocationStrategiesTest.testPartialLinkTest">
-    <configuration name="BasicLocationStrategiesTest.testId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CssSelectorStrategiesTest.testStartsWith">
+    <configuration name="CssSelectorStrategiesTest.testClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -87,14 +92,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
-      <option name="METHOD_NAME" value="testId" />
+      <option name="MAIN_CLASS_NAME" value="clase1.CssSelectorStrategiesTest" />
+      <option name="METHOD_NAME" value="testClass" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicLocationStrategiesTest.testLinkText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CssSelectorStrategiesTest.testFatherSon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -103,14 +108,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
-      <option name="METHOD_NAME" value="testLinkText" />
+      <option name="MAIN_CLASS_NAME" value="clase1.CssSelectorStrategiesTest" />
+      <option name="METHOD_NAME" value="testFatherSon" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicLocationStrategiesTest.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CssSelectorStrategiesTest.testStartsWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -119,14 +124,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
-      <option name="METHOD_NAME" value="testName" />
+      <option name="MAIN_CLASS_NAME" value="clase1.CssSelectorStrategiesTest" />
+      <option name="METHOD_NAME" value="testStartsWith" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicLocationStrategiesTest.testPartialLinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CssSelectorStrategiesTest.testTagClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -135,14 +140,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
-      <option name="METHOD_NAME" value="testPartialLinkTest" />
+      <option name="MAIN_CLASS_NAME" value="clase1.CssSelectorStrategiesTest" />
+      <option name="METHOD_NAME" value="testTagClass" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicLocationStrategiesTest.testTagName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CssSelectorStrategiesTest.testTagID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clase_autoatizacion" />
       <extension name="coverage">
         <pattern>
@@ -151,8 +156,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clase1" />
-      <option name="MAIN_CLASS_NAME" value="clase1.BasicLocationStrategiesTest" />
-      <option name="METHOD_NAME" value="testTagName" />
+      <option name="MAIN_CLASS_NAME" value="clase1.CssSelectorStrategiesTest" />
+      <option name="METHOD_NAME" value="testTagID" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BasicLocationStrategiesTest.testPartialLinkTest" />
-        <item itemvalue="JUnit.BasicLocationStrategiesTest.testLinkText" />
-        <item itemvalue="JUnit.BasicLocationStrategiesTest.testTagName" />
-        <item itemvalue="JUnit.BasicLocationStrategiesTest.testName" />
-        <item itemvalue="JUnit.BasicLocationStrategiesTest.testId" />
+        <item itemvalue="JUnit.CssSelectorStrategiesTest.testStartsWith" />
+        <item itemvalue="JUnit.CssSelectorStrategiesTest.testFatherSon" />
+        <item itemvalue="JUnit.CssSelectorStrategiesTest.testTagClass" />
+        <item itemvalue="JUnit.CssSelectorStrategiesTest.testClass" />
+        <item itemvalue="JUnit.CssSelectorStrategiesTest.testTagID" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +193,7 @@
       <workItem from="1754694193386" duration="18000" />
       <workItem from="1754694240833" duration="8000" />
       <workItem from="1754694401157" duration="9562000" />
-      <workItem from="1754953290046" duration="16252000" />
+      <workItem from="1754953290046" duration="19775000" />
     </task>
     <servers />
   </component>
